@@ -1,6 +1,6 @@
 # OAST Lab
 
-OAST Lab is a Windows x64 desktop application for receiving HTTP, HTTPS, and DNS callbacks. It creates short-lived callback identifiers and displays received events in a shared table. The interface and user guide are in English.
+OAST Lab is a Windows x64 desktop application for receiving HTTP, HTTPS, and DNS callbacks. It creates callback identifiers and displays received events in a shared table. The interface and user guide are in English.
 
 ## Download and install
 
