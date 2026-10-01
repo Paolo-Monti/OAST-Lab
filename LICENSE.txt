@@ -1,0 +1,60 @@
+OAST LAB - NON-COMMERCIAL USE LICENSE
+Version 1.0
+
+Please read these terms before installing or using OAST Lab. This agreement
+covers the program and its accompanying documentation (the "Software").
+By selecting "I accept the agreement", you agree to these terms. If you do
+not agree, do not install or use the Software.
+
+1. FREE NON-COMMERCIAL USE
+
+The author grants you a non-exclusive right to install and use the Software
+free of charge solely for non-commercial purposes, including personal study,
+unpaid learning, and non-commercial research.
+
+Commercial use is not covered by this free license. This includes use in a
+business or professional activity, internal business operations, paid work,
+consulting, or services provided to customers, even if the Software itself
+is not sold or separately charged for. Commercial use requires a separate
+written agreement with the author before use.
+
+2. OWNERSHIP
+
+The Software is licensed, not sold. The author retains ownership and all
+rights not expressly granted by this agreement. This agreement does not
+grant a right to sell, sublicense, or commercially distribute the Software.
+Any third-party components remain subject to their applicable license terms.
+
+3. PROVIDED AS IS - NO WARRANTY
+
+The Software is supplied "AS IS" and "AS AVAILABLE", with all faults.
+To the fullest extent permitted by applicable law, the author gives no
+warranty or guarantee, whether express, implied, or statutory, including
+any assurance of quality, suitability for a particular purpose, accuracy,
+security, reliability, or freedom from infringement. The author does not
+promise uninterrupted or error-free operation, updates, or support.
+
+4. DISCLAIMER OF LIABILITY
+
+You use the Software at your own risk. To the fullest extent permitted by
+applicable law, the author shall have no liability for any claim, loss,
+damage, cost, or expense arising from the Software, its documentation,
+or your use of or inability to use it. This exclusion includes direct and
+indirect damage, loss of data, loss of profit or revenue, business
+interruption, and incidental, special, or consequential damage, even if
+the author has been advised that such damage could occur.
+
+Nothing in this agreement excludes liability or limits rights that cannot
+legally be excluded or limited under applicable law.
+
+5. YOUR RESPONSIBILITY
+
+You are responsible for how you configure and use the Software, including
+your network configuration and compliance with applicable laws and any
+permissions required for your activities.
+
+6. TERMINATION
+
+Your permission to use the Software ends if you breach these terms. In that
+case, stop using the Software and remove your installed copies. The warranty
+and liability provisions continue to apply to the extent allowed by law.
